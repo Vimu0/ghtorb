@@ -1,0 +1,1 @@
+If you can see this, then welcome! This repo aims to make definitive packs for Guitar Hero songs ported to Rock Band. If any songs were officially in Rock Band at any point then they will not be found here.
