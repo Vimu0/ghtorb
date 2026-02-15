@@ -46,7 +46,7 @@
    (year_released 2006)
    (rating 4)
    (sub_genre subgenre_alternative)
-   (song_id 1000000543)
+   (song_id 2139010306)
    (tuning_offset_cents 0)
    (guide_pitch_volume -3.0)
    (game_origin #ifdef CUSTOMSOURCE ghwtdlc #else ugc_plus #endif)
