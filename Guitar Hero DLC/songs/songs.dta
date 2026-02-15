@@ -553,12 +553,12 @@
    (base_points 0)
    (encoding latin1)
 )
-(thesilenceisdeafening_wtdlc
+(silenceisdeafening_wtdlc
    (name "The Silence Is Deafening")
    (artist "Awaken")
    (master TRUE)
    (song
-      (name songs/thesilenceisdeafening_wtdlc/thesilenceisdeafening_wtdlc)
+      (name songs/silenceisdeafening_wtdlc/silenceisdeafening_wtdlc)
       (tracks
          (
             (drum (0 1 2 3 4 5))
@@ -573,7 +573,7 @@
       (drum_solo (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
       (drum_freestyle (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue)))
       (midi_file
-         songs/thesilenceisdeafening_wtdlc/thesilenceisdeafening_wtdlc.mid
+         songs/silenceisdeafening_wtdlc/silenceisdeafening_wtdlc.mid
       )
    )
    (song_scroll_speed 2300)
@@ -11336,12 +11336,12 @@
    (album_track_number 2)
    (encoding latin1)
 )
-(wevegotasituationhere_wordlc
+(gotasituationhere_wordlc
    (name "We've Got a Situation Here")
    (artist "The Damned Things")
    (master TRUE)
    (song
-      (name songs/wevegotasituationhere_wordlc/wevegotasituationhere_wordlc)
+      (name songs/gotasituationhere_wordlc/gotasituationhere_wordlc)
       (tracks
          (
             (drum (0 1))
