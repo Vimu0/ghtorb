@@ -4531,7 +4531,7 @@
    (song_id 1118903298)
    (tuning_offset_cents 0)
    (guide_pitch_volume -3.0)
-   (game_origin #ifdef CUSTOMSOURCE ghwrodlc #else ugc_plus #endif)
+   (game_origin #ifdef CUSTOMSOURCE ghwordlc #else ugc_plus #endif)
    (encoding latin1)
    (album_name "World War III")
    (album_track_number 6)
