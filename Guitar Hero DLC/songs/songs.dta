@@ -208,7 +208,7 @@
    (game_origin #ifdef CUSTOMSOURCE gh5dlc #else ugc_plus #endif)
    (rating 2)
    (genre punk)
-   (author "Neversoft, GHtoRB3")
+   (author "Neversoft, GHtoRB3, Big Gucci")
    (sub_genre subgenre_pop)
    (vocal_gender male)
    (year_released 2006)
