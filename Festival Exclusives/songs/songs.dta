@@ -1,5 +1,5 @@
 (welcometothejungle_gh3
-   (name "Welcome to the Jungle")
+   (name "Welcome to the Jungle (GH3 version)")
    (artist "Guns N' Roses")
    (master TRUE)
    (song
@@ -58,7 +58,7 @@
    (encoding latin1)
 )
 (fadetoblack_ghm
-   (name "Fade to Black")
+   (name "Fade to Black (GHM version)")
    (artist "Metallica")
    (master TRUE)
    (song_id 2130754402)
@@ -113,7 +113,7 @@
    (song_tonality 1)
 )
 (forwhomthebelltolls_ghm
-   (name "For Whom the Bell Tolls")
+   (name "For Whom the Bell Tolls (GHM version)")
    (artist "Metallica")
    (master TRUE)
    (song_id 2137438363)
@@ -167,7 +167,7 @@
    (song_tonality 1)
 )
 (nothingelsematters_ghm
-   (name "Nothing Else Matters")
+   (name "Nothing Else Matters (GHM version)")
    (artist "Metallica")
    (master TRUE)
    (song_id 2130633844)
@@ -222,7 +222,7 @@
    (song_tonality 1)
 )
 (one_ghm
-   (name "One")
+   (name "One (GHM version)")
    (artist "Metallica")
    (master TRUE)
    (song
@@ -282,7 +282,7 @@
    (encoding latin1)
 )
 (sadbuttrue_ghm
-   (name "Sad But True")
+   (name "Sad But True (GHM version)")
    (artist "Metallica")
    (master TRUE)
    (song_id 2139004031)
@@ -336,7 +336,7 @@
    (song_tonality 1)
 )
 (seekanddestroy_ghm
-   (name "Seek & Destroy")
+   (name "Seek & Destroy (GHM version)")
    (artist "Metallica")
    (master TRUE)
    (song_id 2131699887)
@@ -390,7 +390,7 @@
    (song_tonality 1)
 )
 (thememoryremains_ghm
-   (name "The Memory Remains")
+   (name "The Memory Remains (GHM version)")
    (artist "Metallica")
    (master TRUE)
    (song_id 2133830332)
@@ -444,7 +444,7 @@
    (song_tonality 1)
 )
 (theunforgiven_ghm
-   (name "The Unforgiven")
+   (name "The Unforgiven (GHM version)")
    (artist "Metallica")
    (master TRUE)
    (song_id 2136851040)
@@ -498,7 +498,7 @@
    (song_tonality 1)
 )
 (whereverimayroam_ghm
-   (name "Wherever I May Roam")
+   (name "Wherever I May Roam (GHM version)")
    (artist "Metallica")
    (master TRUE)
    (song_id 2135138633)
@@ -552,7 +552,7 @@
    (song_tonality 1)
 )
 (walkthisway_gha
-   (name "Walk This Way (ft. Aerosmith)")
+   (name "Walk This Way (ft. Aerosmith) (GHA version)")
    (artist "Run-D.M.C.")
    (master TRUE)
    (song_id 1128801336)
@@ -607,7 +607,7 @@
    (song_tonality 0)
 )
 (theboysareback_ghm
-   (name "The Boys Are Back in Town")
+   (name "The Boys Are Back in Town (GHM version)")
    (artist "Thin Lizzy")
    (master TRUE)
    (song
