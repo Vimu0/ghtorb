@@ -12831,8 +12831,6 @@
       (vocals 175)
       (keys 211)
       (real_keys 211)
-      (real_guitar 267)
-      (real_bass 208)
       (band 215)
    )
    (genre glam)
@@ -12853,8 +12851,6 @@
    (album_track_number 5)
    (vocal_tonic_note 4)
    (song_tonality 0)
-   (real_guitar_tuning (0 0 0 0 0 0))
-   (real_bass_tuning (0 0 0 0))
 )
 (guiltypleasures_5dlc
    (name "Guilty Pleasures")
