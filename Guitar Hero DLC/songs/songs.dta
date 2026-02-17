@@ -7350,6 +7350,7 @@
    (game_origin #ifdef CUSTOMSOURCE ghwtdlc #else ugc_plus #endif)
    (album_name "Dig Out Your Soul")
    (album_track_number 4)
+   (loading_phrase "The Dig Out Your Soul tour would be Oasis's last concert until they announced their reunion tour in August 2024, almost 15 years to the day after the band split up.")
    (encoding latin1)
 )
 (theturning_wtdlc
