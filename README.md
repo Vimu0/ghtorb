@@ -8,5 +8,4 @@ For the following songs that have since been added to the Lane Breakers project,
 * Metallica - Master of Puppets (https://youtu.be/lExyxb4_AOo)
 * Muse - Stockholm Syndrome (https://youtu.be/KOqr29971Vg)
 * My Chemical Romance - The End. / Dead! (https://youtu.be/SazoOa8VZDw)
-* Nine Inch Nails - Wish (https://youtu.be/7714cV0xPfM?si=ne8i9QMeacuZj4ik)
 * Van Halen - Jump (https://youtu.be/azu0IWi_RTA)
