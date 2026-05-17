@@ -1,4 +1,7 @@
-If you can see this, then welcome! This repo aims to make definitive packs for Guitar Hero songs ported to Rock Band. If any songs were officially in Rock Band at any point then they will not be found here.
+# Guitar Hero to Rock Band
+![GHtoRB](./dependencies/header.png)
+
+Welcome to the Guitar Hero to Rock Band repo. This repo serves as the source for the Guitar Hero ports and as such contains the files to manually build each song or pack. To download pre-compiled versions of these packs, please visit [MiloHax's spreadsheet](https://bit.ly/ArbysMealDeals) for Rock Band songs.
 
 ## NOTE REGARDING LANE BREAKERS SONGS:
 For the following songs that have since been added to the Lane Breakers project, please visit them here to download them: discord.gg/u5gNJmwsud
