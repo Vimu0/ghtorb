@@ -12,5 +12,6 @@ For the following songs that have since been added to the Lane Breakers project,
 * [Metallica - Master of Puppets](https://youtu.be/lExyxb4_AOo)
 * [Muse - Stockholm Syndrome](https://youtu.be/KOqr29971Vg)
 * [My Chemical Romance - The End. / Dead!](https://youtu.be/SazoOa8VZDw)
+* [Rise Against - Ready to Fall](https://youtu.be/Vzg1LNVfuho)
 * [Stuck in the Sound - Toy Boy](https://youtu.be/PUgQ4Gs8D6Y)
 * [Van Halen - Jump](https://youtu.be/azu0IWi_RTA)
